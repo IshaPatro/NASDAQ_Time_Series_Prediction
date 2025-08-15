@@ -1,7 +1,8 @@
-# NASDAQ Time Series Prediction  
-
 ## Problem Statement  
-The NASDAQ index is a key indicator of tech sector performance, and short-term movements can influence major investment decisions. In this project, I aim to build a predictive model that forecasts upcoming NASDAQ values using historical time series data. The goal is to provide quick, data-driven insights that help investors anticipate market trends.
+The NASDAQ index reflects the performance of the tech-heavy stock market and is closely watched by investors and analysts. In this project, I aim to build a predictive model using historical NASDAQ data to estimate how well such models could have predicted past market behavior. The focus is on evaluating different time series techniques in a historical context to understand their accuracy and limitations.
 
 ## Stakeholder & User  
-The primary users are individual investors and financial analysts who track the market closely. They need simple, reliable forecasts to support short-term trading or investment strategy.
+The primary users are data-driven investors, financial analysts, or researchers interested in assessing the reliability of time series models for market prediction. This project supports model evaluation rather than live forecasting, and the results could inform future development of trading strategies.
+
+## Useful Answer & Decision  
+The goal is to build a **predictive model** that is trained and tested on historical data to forecast values within that time range. 
